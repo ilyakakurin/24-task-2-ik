@@ -7,3 +7,4 @@ if n == 1:
     print(k)
 else:
     print('Не существует')
+
